@@ -30,3 +30,9 @@ def util_4():
     """utility function 4"""
     # added 2023-05-10
     return 4
+
+
+def util_5():
+    """utility function 5"""
+    # added 2023-05-16
+    return 5
